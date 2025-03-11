@@ -38,7 +38,7 @@ function App() {
     <div className="App">
    
     {renderparticlesJsInHomePage && init && (
-      <Particles id="tsparticles" particlesLoaded={particlesLoaded} options={particles} />
+      <Particles id="tsparticles" style={{ position: "absolute", zIndex: "-1" }} particlesLoaded={particlesLoaded} options={particles} />
     )}
      <Navbar />
     <div className="App_main-page-content">

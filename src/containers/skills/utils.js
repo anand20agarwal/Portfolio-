@@ -18,6 +18,10 @@ export const skillsData = [
           skillName: "React.js",
           percentage: "60",
         },
+          {
+              skillName : "Phaser.js",
+              percentage: "40",
+          },
       ],
     },
     {

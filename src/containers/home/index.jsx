@@ -7,7 +7,7 @@ const Home = () => {
   const navigate = useNavigate();
 
   const handleDownload = () => {
-    window.open("https://drive.google.com/file/d/1_B4h2TAlV-doJv9H5CtksB_GafGu_p18/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/15YKbSeKhY8z8q5kBl8un_e7_IA3Rz4Bw/view?usp=sharing", "_blank");
   };
 
   const handleNavigateToContactMePage = () => {

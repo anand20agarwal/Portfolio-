@@ -12,7 +12,7 @@ const Home = () => {
 
   const handleNavigateToContactMePage = () => {
     navigate("/contact"); 
-  };
+  };  
 
   return (
     <section id="home" className="home">
